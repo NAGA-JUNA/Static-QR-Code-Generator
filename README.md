@@ -5,4 +5,4 @@ This Static QR Code-Generator can make QR Code of any Text or Link. You will get
 
 
 <h2>Click On Image to View Live Static-QR-Code-Generator<h2>
-<a href="https://naga-juna.github.io/Static-QR-Code-Generator"><img src="https://user-images.githubusercontent.com/105515148/224672456-a18155a0-7770-4197-aead-97a0351ad98d.png](https://img-qn.51miz.com/Element/00/90/63/71/89159852_E906371_d2c1b666.png" alt="Vist Here"/></a>
+<a href="https://naga-juna.github.io/Static-QR-Code-Generator"><img src="https://img-qn.51miz.com/Element/00/90/63/71/89159852_E906371_d2c1b666.png" alt="Vist Here"/></a>
