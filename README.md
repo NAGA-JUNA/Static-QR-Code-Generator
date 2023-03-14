@@ -9,4 +9,6 @@ Still coming up Generate fully customized QR Codes, with color & shape, logo and
 <a href="https://naga-juna.github.io/Static-QR-Code-Generator"><img src="https://raw.githubusercontent.com/NAGA-JUNA/Static-QR-Code-Generator/main/logo.png" alt="Vist Here"/></a> 
   
   
+# Screen View 
 
+<img src="https://raw.githubusercontent.com/NAGA-JUNA/Static-QR-Code-Generator/main/Screen.PNG"/></a> 
